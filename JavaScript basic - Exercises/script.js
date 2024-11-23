@@ -27,10 +27,9 @@ var nSecond = today.getSeconds();
 
 console.log(`Current time is ${nHoure}:${nMinutes}:${nSecond}`);
 
-*/
-
 //  2). Print the contents of the current window
 // Note first creat a print bottone using HTML and CSS than apply JS
+
 function print_Current_Page()
 {
     let setPass = "Daxesh123@";
@@ -41,3 +40,6 @@ function print_Current_Page()
     }
     window.print();
 }
+*/
+
+// 3). 
